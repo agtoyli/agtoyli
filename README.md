@@ -12,6 +12,6 @@
 ### Highlighted Projects
 - Public Health Disease Surveillance
 - Public Health Disease Surveillance
-- [Alzheimer's and Cardiovascular Disease Subtypes Correlation](https://github.com/MIILab-MTU/CVDSubtypesADCorrelation/tree/main/Results)
+- [Alzheimer's and Cardiovascular Disease Subtypes Correlation](https://github.com/MIILab-MTU/CVDSubtypesADCorrelation/tree/main)
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/aili-toyli-a9a012246/)
