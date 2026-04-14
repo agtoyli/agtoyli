@@ -10,7 +10,7 @@
 - Cloud Analysis: DNAnexus, Google Cloud Platform, vSphere Client
 - Healthcare Architecture: OpenEMR, Synthea, Hapi-FHIR
 ### Highlighted Projects
-- Public Health Disease Surveillance
+- [Public Health Disease Surveillance](https://github.com/agtoyli/Public-Health-Disease-Surveillance)
 - [Population/Public Health Research](https://github.com/agtoyli/Population-and-Public-Health-Research)
 - [Alzheimer's and Cardiovascular Disease Subtypes Correlation](https://github.com/MIILab-MTU/CVDSubtypesADCorrelation/tree/main)
 ### Connect
