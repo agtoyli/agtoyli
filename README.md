@@ -4,7 +4,7 @@
 ## Leveraging statistics in complex health datasets to gain clinical insight
 ## Researcher for [Michigan Tech Medical Imaging and Informatics Lab](https://github.com/MIILab-MTU)
 ### Languages
-- Analysis: R, Python, SAS
+- Analysis: R, Python, SAS, SQL
 - Scripting & Shell: Bash, Perl, Powershell
 ### Platforms
 - Cloud Analysis: DNAnexus, Google Cloud Platform, vSphere Client
