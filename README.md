@@ -9,6 +9,7 @@
 ### Platforms
 - **Cloud Analysis:** DNAnexus, Google Cloud Platform, vSphere Client
 - **Healthcare Architecture:** OpenEMR, Synthea, Hapi-FHIR
+- **IDE:** RStudio, VSCode
 ### Highlighted Projects
 - [Public Health Disease Surveillance](https://github.com/agtoyli/Public-Health-Disease-Surveillance)
 - [Population/Public Health Research](https://github.com/agtoyli/Population-and-Public-Health-Research)
