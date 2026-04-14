@@ -11,7 +11,7 @@
 - Healthcare Architecture: OpenEMR, Synthea, Hapi-FHIR
 ### Highlighted Projects
 - Public Health Disease Surveillance
-- Population/Public Health Research
+- [Population/Public Health Research](https://github.com/agtoyli/Population-and-Public-Health-Research)
 - [Alzheimer's and Cardiovascular Disease Subtypes Correlation](https://github.com/MIILab-MTU/CVDSubtypesADCorrelation/tree/main)
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/aili-toyli-a9a012246/)
